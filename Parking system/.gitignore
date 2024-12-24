@@ -1,0 +1,72 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Logs
+*.log
+*.tlg
+
+# Crash Reports
+*.stackdump
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Rider settings
+.idea/
+.idea_modules/
+
+# Dotnet Tools
+**/local_toolchain/
+
+# Visual Studio Code directories
+.vscode/
+
+# Working files
+*.vsix
+
+# Temporary files
+*.swp
+*.temp
+
+# Packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# ASP.NET Specific
+appsettings*.json
+
+# Generated Files
+project.lock.json
+project.fragment.lock.json
+artifacts/
